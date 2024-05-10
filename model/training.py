@@ -11,7 +11,7 @@ from torch.distributions import Categorical
 
 from environment import *
 from modules import *
-from trainer import *
+from model.A2C import *
 
 env = DriftingBandit()
 env = MetaLearningWrapper(env)

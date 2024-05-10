@@ -305,7 +305,7 @@ if __name__ == '__main__':
 
     from environment import *
     from modules import *
-    from trainer import *
+    from model.trainer import *
 
     env = DriftingBandit()
     env = MetaLearningWrapper(env)
