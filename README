@@ -17,7 +17,7 @@ In this repo, I will investigate whether meta-reinforcement learning agents has 
 
 - Botvinick, M., Ritter, S., Wang, J. X., Kurth-Nelson, Z., Blundell, C., Hassabis, D. (2019). Reinforcement Learning, Fast and Slow. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2019.02.006
 
-- Bornstein AM, Norman KA. Reinstated episodic context guides sampling-based decisions for reward. Nat Neurosci. 2017 Jul;20(7):997-1003. doi: 10.1038/nn.4573. 
+- Bornstein AM, Norman KA. Reinstated episodic context guides sampling-based decisions for reward. Nat Neurosci. 2017 Jul;20(7):997-1003. doi:101038/nn.4573. 
 
 ## Dependencies
 Python 3.7+ 
