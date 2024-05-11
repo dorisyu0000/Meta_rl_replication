@@ -12,6 +12,11 @@ Usually the train and test tasks are different but drawn from the same family of
 
 ## Introduction 
 In this repo, I will investigate whether meta-reinforcement learning agents has a hippocampal-like mechanisms for retrieving long-term memories during decision-making. Specifically, I train a series of meta-reinforcement learning agents on a four-arm bandit task. Then I will examine the agents' behavior to determine if they exhibit patterns previously suggested as indicative of episodic-like sampling, a process akin to the retrieval of episodic memories in the human hippocampus. However, my findings suggest that the observed behaviors can be better attributed to the agents' flexible use of working memory, rather than episodic-like retrieval from long-term memory stores. Ultimately, I find no compelling evidence supporting the involvement of hippocampal-like mechanisms for episodic memory retrieval in the decision-making processes of these meta-reinforcement learning agents.
+<p align="center">
+  <!-- <img src="images/bandit.png" width="350"> -->
+  <img src="./images/bandit.png" width="100%"> 
+  <i>Bandits and the Harlow Task(Botvinick, et al. 2019).</i>
+</p>
 ## Research Papers 
 - Wang, J.X., Kurth-Nelson, Z., Kumaran, D. et al. Prefrontal cortex as a meta-reinforcement learning system. Nat Neurosci 21, 860–868 (2018). https://doi.org/10.1038/s41593-018-0147-8
 
