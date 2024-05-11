@@ -17,7 +17,9 @@ In this repo, I will investigate whether meta-reinforcement learning agents has 
   <img src="./images/bandit.png" width="100%"> 
   <i>Bandits and the Harlow Task(Botvinick, et al. 2019).</i>
 </p>
+
 ## Research Papers 
+
 - Wang, J.X., Kurth-Nelson, Z., Kumaran, D. et al. Prefrontal cortex as a meta-reinforcement learning system. Nat Neurosci 21, 860–868 (2018). https://doi.org/10.1038/s41593-018-0147-8
 
 - Botvinick, M., Ritter, S., Wang, J. X., Kurth-Nelson, Z., Blundell, C., Hassabis, D. (2019). Reinforcement Learning, Fast and Slow. Trends in Cognitive Sciences. https://doi.org/10.1016/j.tics.2019.02.006
